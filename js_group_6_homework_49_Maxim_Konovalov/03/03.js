@@ -3,11 +3,11 @@ function chess(box) {
   for(var i = 0; i < box; i++) {
     for(var j = 0; j < box / 2; j++) {
       if(i % 2 === 0) {
-        output += "  ";
+        output += "░░";
         output += "██";
       } else {
         output += "██";
-        output += "  ";      
+        output += "░░";      
       }
     }
     output += "\n";

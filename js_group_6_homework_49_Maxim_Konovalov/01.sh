@@ -1,5 +1,3 @@
-cd ~/projects
-mkdir -p my_project/directory1/subdirectory1
-cd ~/projects/my_project
-mkdir directory2
-mkdir -p directory3/subdirectory2
+mkdir -p projects/my_project/directory1/subdirectory1
+mkdir -p projects/my_project/directory2
+mkdir -p projects/my_project/directory3/subdirectory2

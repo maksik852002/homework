@@ -55,7 +55,7 @@ class EnergyCalculator {
 const beef= new Product ('Филе говядина', 158);
 const rice = new Product ('Рис', 130);
 const onion = new Product ('Лук', 40);
-const carrot = new Product ('Марковь', 41);
+const carrot = new Product ('Морковь', 41);
 
 const plov = new Dish('Плов');
 plov.addProduct(beef, 100);
